@@ -9,5 +9,6 @@ for i in range(4):
     mean = mean + grades[i]
     n = n + 1
 mean = mean / n
+
 print(mean)
 print(grades)
