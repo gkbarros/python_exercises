@@ -7,3 +7,4 @@
 valor_prestação = float(input("Type your boleto here:"))
 dias_atraso = int(input('type the days late here:'))
 def valor_pagamento (a,b):
+    return
